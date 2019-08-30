@@ -1,0 +1,39 @@
+/*
+Allgemein
+*/
+*
+{
+	margin: 0px;
+	padding: 0px;
+	color: #5600ff;
+}
+
+/*
+Layout
+*/
+#kopf
+{
+	background-color: #5600ff;
+	color: white;
+	padding: 20px;	
+}
+#hauptteil
+{
+	background-color: white;
+	color: #5600ff;
+	padding: 20px;		
+}
+#fuss
+{
+	background-color: #5600ff;
+	color: white;	
+	padding: 20px;		
+}
+
+/*
+Links
+*/
+#kopf a , #fuss a
+{
+	color:white;
+}
